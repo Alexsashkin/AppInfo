@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AppInfo</string>
+    <string name="show_appinfo">Show AppInfo</string>
+</resources>
